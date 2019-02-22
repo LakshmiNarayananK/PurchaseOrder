@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_file_attachment_16</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-02 09:10:11</sys_created_on>
+        <sys_id>bd8c32b4db722300515e9c68db96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_file_attachment_16</sys_name>
+        <sys_package display_value="PurchaseOrder" source="x_298105_purchaseo">2aef33a5dbaa6300515e9c68db9619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PurchaseOrder">2aef33a5dbaa6300515e9c68db9619b9</sys_scope>
+        <sys_update_name>sys_ui_policy_action_bd8c32b4db722300515e9c68db96192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-02 09:10:11</sys_updated_on>
+        <table>x_298105_purchaseo_po</table>
+        <ui_policy display_value="SOW Attachment">043c3e74db722300515e9c68db9619b6</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

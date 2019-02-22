@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Purchase Order Form" section_id="ee762634db322300515e9c68db961901" sys_domain="global" table="x_298105_purchaseo_po" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 05:19:24</sys_created_on>
+            <sys_id>efc117c9dbf22300515e9c68db9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Form" display_value="Purchase Order Form" name="x_298105_purchaseo_po" sys_domain="global" view="Default view">ee762634db322300515e9c68db961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_17</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 05:19:24</sys_created_on>
+            <sys_id>a7c117c9dbf22300515e9c68db9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Form" display_value="Purchase Order Form" name="x_298105_purchaseo_po" sys_domain="global" view="Default view">ee762634db322300515e9c68db961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_18</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 05:19:24</sys_created_on>
+            <sys_id>2bc117c9dbf22300515e9c68db9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Form" display_value="Purchase Order Form" name="x_298105_purchaseo_po" sys_domain="global" view="Default view">ee762634db322300515e9c68db961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 05:19:24</sys_created_on>
+            <sys_id>abc117c9dbf22300515e9c68db9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Form" display_value="Purchase Order Form" name="x_298105_purchaseo_po" sys_domain="global" view="Default view">ee762634db322300515e9c68db961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 05:19:24</sys_created_on>
+            <sys_id>2fc117c9dbf22300515e9c68db9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Form" display_value="Purchase Order Form" name="x_298105_purchaseo_po" sys_domain="global" view="Default view">ee762634db322300515e9c68db961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 05:19:24</sys_created_on>
+            <sys_id>afc117c9dbf22300515e9c68db9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Form" display_value="Purchase Order Form" name="x_298105_purchaseo_po" sys_domain="global" view="Default view">ee762634db322300515e9c68db961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_19</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 05:19:24</sys_created_on>
+            <sys_id>23c117c9dbf22300515e9c68db9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Form" display_value="Purchase Order Form" name="x_298105_purchaseo_po" sys_domain="global" view="Default view">ee762634db322300515e9c68db961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 05:19:24</sys_created_on>
+            <sys_id>a3c117c9dbf22300515e9c68db9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Form" display_value="Purchase Order Form" name="x_298105_purchaseo_po" sys_domain="global" view="Default view">ee762634db322300515e9c68db961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Purchase Order Form</caption>
+            <header>false</header>
+            <name>x_298105_purchaseo_po</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-02 07:31:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee762634db322300515e9c68db961901</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Purchase Order Form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PurchaseOrder" source="x_298105_purchaseo">2aef33a5dbaa6300515e9c68db9619b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PurchaseOrder">2aef33a5dbaa6300515e9c68db9619b9</sys_scope>
+            <sys_update_name>sys_ui_section_ee762634db322300515e9c68db961901</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 05:19:23</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
